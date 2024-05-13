@@ -10,12 +10,13 @@ npm run dev
 
 ## Tools :
 
-- [Visual Studio Code](https://code.visualstudio.com/) - Éditeur de texte
-- [React 18](https://fr.reactjs.org/) - Bibliothèque JavaScript libre développée par Facebook
-- [Create React App](https://create-react-app.dev/) - Boîte à outils créée par Facebook, qui est la référence pour initier un projet React
-- [React Router V6](https://reactrouter.com/) - Bibliothèque de routage pour React
-- [GitHub](https://github.com/) - Outil de gestion de versions
-- [GitHub Pages](https://pages.github.com/) - Outil d’hébergement
+- [Next.js](https://nextjs.org/) - The React Framework for the web
+- [Visual Studio Code](https://code.visualstudio.com/) - Text editor
+- [React 18](https://fr.reactjs.org/) - JavaScript libary developed by Facebook
+- [Create React App](https://create-react-app.dev/) - Toolbox created by Facebook, which is the reference for initiating a React project
+- [React Router V6](https://reactrouter.com/) - Routing library for React
+- [GitHub](https://github.com/) - Version management tool
+- [GitHub Pages](https://pages.github.com/) - Hosting tool
 
 ## Author :
 
